@@ -48,3 +48,13 @@ gen
 .vscode
 
 # OS files
+.DS_Store
+*Thumbs.db
+
+src/helpers/blacklistUsersDb
+
+.package.json
+
+# Other files
+*.env
+/coverage/
